@@ -82,7 +82,7 @@ Ensure the following are available before setup:
 **Clone the repository:**
 
 ```bash
-git clone https://github.com/YourUsername/Founder-Lens.git
+git clone https://github.com/leaderofARS/Founder-Lens.git
 cd Founder-Lens
 ```
 
