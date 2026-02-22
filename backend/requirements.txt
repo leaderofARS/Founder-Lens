@@ -1,11 +1,12 @@
 fastapi
-uvicorn
+uvicorn[standard]
 pydantic
-openai
-google-generativeai
 pandas
 numpy
 scikit-learn
 python-dotenv
 requests
 google-generativeai
+pyarrow
+xgboost
+apscheduler
