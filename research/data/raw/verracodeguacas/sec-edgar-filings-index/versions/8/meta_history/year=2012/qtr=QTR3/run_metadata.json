@@ -1,0 +1,22 @@
+{
+  "year": 2012,
+  "qtr": "QTR3",
+  "source_url": "https://www.sec.gov/Archives/edgar/full-index/2012/QTR3/master.zip",
+  "downloaded_at_et": "2026-02-17T19:53:13.947632-05:00",
+  "filtered_to_public_ciks": false,
+  "forms_keep": [
+    "10-K",
+    "10-K/A",
+    "10-Q",
+    "10-Q/A"
+  ],
+  "counts": {
+    "filings": 9787,
+    "unique_ciks": 7664,
+    "unique_accessions": 9597
+  },
+  "paths": {
+    "filing_index": "/kaggle/working/sec_edgar_static_kg/filing_index_history/year=2012/qtr=QTR3/filing_index.parquet",
+    "company_filing_edges": "/kaggle/working/sec_edgar_static_kg/edges_company_filing_history/year=2012/qtr=QTR3/company_filing_edges.parquet"
+  }
+}

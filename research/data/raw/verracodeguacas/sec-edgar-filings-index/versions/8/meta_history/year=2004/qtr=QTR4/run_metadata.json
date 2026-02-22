@@ -1,0 +1,22 @@
+{
+  "year": 2004,
+  "qtr": "QTR4",
+  "source_url": "https://www.sec.gov/Archives/edgar/full-index/2004/QTR4/master.zip",
+  "downloaded_at_et": "2026-02-17T19:53:13.947632-05:00",
+  "filtered_to_public_ciks": false,
+  "forms_keep": [
+    "10-K",
+    "10-K/A",
+    "10-Q",
+    "10-Q/A"
+  ],
+  "counts": {
+    "filings": 7715,
+    "unique_ciks": 6722,
+    "unique_accessions": 7418
+  },
+  "paths": {
+    "filing_index": "/kaggle/working/sec_edgar_static_kg/filing_index_history/year=2004/qtr=QTR4/filing_index.parquet",
+    "company_filing_edges": "/kaggle/working/sec_edgar_static_kg/edges_company_filing_history/year=2004/qtr=QTR4/company_filing_edges.parquet"
+  }
+}

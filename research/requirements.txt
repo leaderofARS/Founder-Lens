@@ -1,0 +1,14 @@
+fastapi
+uvicorn
+pydantic
+python-dotenv
+requests
+pandas
+numpy
+matplotlib
+kagglehub
+scikit-learn
+xgboost
+seaborn
+ipykernel
+jupyter
